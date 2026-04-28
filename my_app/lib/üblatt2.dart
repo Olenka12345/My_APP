@@ -52,7 +52,7 @@ void main() {
 
   print("Summe von 1 bis 100: $gesamt");
 
-  // Aufgabe 7, Schreibe	eine	Funktion,	die	eine	Zahl	verdoppelt	und	verwende	sie.
+  // Aufgabe 7, Schreibe	eine	Funktion,	die	eine	Zahl	verdoppelt	und	verwendesie.
   int ergebnis = verdoppeln(5);
   print("Verdoppelt: $ergebnis");
 
